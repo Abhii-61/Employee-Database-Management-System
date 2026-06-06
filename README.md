@@ -17,6 +17,19 @@ A MySQL-based Employee Database Management System developed to demonstrate datab
 - Subqueries
 - Salary Audit Tracking
 
+## Project Structure
+
+schema.sql
+sample_data.sql
+views.sql
+procedures.sql
+functions.sql
+triggers.sql
+queries.sql
+
+## Screenshots
+![alt text](<Screenshot 2026-06-06 114122.jpg>) ![alt text](<Screenshot 2026-06-06 114209.jpg>) ![alt text](<Screenshot 2026-06-06 114305.jpg>) ![alt text](<Screenshot 2026-06-06 114350.jpg>) ![alt text](<Screenshot 2026-06-06 114444.jpg>) ![alt text](<Screenshot 2026-06-06 114543.jpg>) ![alt text](<Screenshot 2026-06-06 114653.jpg>)
+
 ## Database Tables
 
 ### Departments
