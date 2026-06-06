@@ -19,13 +19,13 @@ A MySQL-based Employee Database Management System developed to demonstrate datab
 
 ## Project Structure
 
-schema.sql
-sample_data.sql
-views.sql
-procedures.sql
-functions.sql
-triggers.sql
-queries.sql
+- schema.sql
+- sample_data.sql
+- views.sql
+- procedures.sql
+- functions.sql
+- triggers.sql
+- queries.sql
 
 ## Database Tables
 
